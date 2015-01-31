@@ -11,6 +11,11 @@
 			"Less2Css",
 			"lessc"
 		],
+		"Bootstrap": [
+			"Bootstrap 3 Snippets",
+			"Goto Bootstrap",
+			"Twitter Bootstrap ClassNames Completions"
+		],
 		"Codeigniter": [
 			"CodeIgniter 2 ModelController",
 			"CodeIgniter Snippets",
@@ -19,11 +24,6 @@
 		"Laravel": [
 			"Laravel 4 Artisan",
 			"Laravel Blade Highlighter"
-		],
-		"Bootstrap": [
-			"Bootstrap 3 Snippets",
-			"Goto Bootstrap",
-			"Twitter Bootstrap ClassNames Completions"
 		],
 		"Git": [
 			"Gist",

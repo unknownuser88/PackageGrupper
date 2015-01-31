@@ -1,7 +1,8 @@
 # PackageGrupper
 Sublime Text package group manager
 
-``` "groups": {
+```json
+ "groups": {
 		"Css / Less": [
 			"CSS Media Query Snippets",
 			"CSS Snippets",
@@ -53,4 +54,5 @@ Sublime Text package group manager
 			"Terminal"
 		]
 
-	} ```
+	} 
+```

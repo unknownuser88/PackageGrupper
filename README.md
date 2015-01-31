@@ -30,7 +30,7 @@ Using Will Bond's [Sublime Package Control](http://wbond.net/sublime_packages/pa
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
-## Example User Settings
+### Example User Settings
 
 * Modify this as you wish
 

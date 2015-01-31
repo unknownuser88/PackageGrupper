@@ -5,7 +5,7 @@ import os
 class GrupperMenuShowCommand(sublime_plugin.TextCommand):
     def run(self, edit):
         self.settings = sublime.load_settings("PackageGrupper.sublime-settings")
-        self.menu = ['Enable Package Group', 'Disable Package Group', 'Group Settings']
+        self.menu = ['Enable Package Group', 'Disable Package Group']
         show_quick_panel(self, self.menu, self.menuCallback)
 
     def menuCallback(self, index):
